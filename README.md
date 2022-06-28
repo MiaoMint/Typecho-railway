@@ -1,3 +1,10 @@
+## Please do not upload attachments, otherwise they will be lost
+## Please do not upload attachments, otherwise they will be lost
+## Please do not upload attachments, otherwise they will be lost
+## 请不要上传附件，否则会丢失
+## 请不要上传附件，否则会丢失
+## 请不要上传附件，否则会丢失
+
 ## Deploy on Railway
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wDoaNQ?referralCode=OzVKh7)
